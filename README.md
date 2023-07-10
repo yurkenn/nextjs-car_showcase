@@ -9,8 +9,8 @@ CarHub is a web application to see the latest car models and their details. But 
 [https://nextjs-car-showcase-rosy.vercel.app/](https://nextjs-car-showcase-rosy.vercel.app/)
 
 ## Screenshots
-![Screenshot 2023-07-10 at 03 26 29](https://github.com/yurkenn/nextjs-car_showcase/assets/69719126/93cfb73e-f555-41d1-8187-dc6a9ca41f14)
 
+![Screenshot 2023-07-10 at 03 26 29](https://github.com/yurkenn/nextjs-car_showcase/assets/69719126/09ec9476-ea12-4c0e-8a4d-83cdf220a5c8)
 
 ## Features
 
